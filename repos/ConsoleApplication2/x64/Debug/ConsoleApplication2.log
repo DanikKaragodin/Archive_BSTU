@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Danik\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(9,7): warning C4804: %: небезопасное использование типа "bool" в операции
+C:\Users\Danik\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(25,15): warning C4267: аргумент: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Users\Danik\source\repos\ConsoleApplication2\ConsoleApplication2.cpp(26,9): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\Danik\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

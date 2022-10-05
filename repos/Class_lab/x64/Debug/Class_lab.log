@@ -1,0 +1,6 @@
+﻿  Class_lab.cpp
+C:\Users\Danik\source\repos\Class_lab\Class_lab.cpp(42,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danik\source\repos\Class_lab\Class_lab.cpp(90,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Danik\source\repos\Class_lab\Class_lab.cpp(95,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Danik\source\repos\Class_lab\Class_lab.cpp(122,41): warning C4305: аргумент: усечение из "double" в "float"
+  Class_lab.vcxproj -> C:\Users\Danik\source\repos\Class_lab\x64\Debug\Class_lab.exe

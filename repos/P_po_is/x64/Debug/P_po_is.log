@@ -1,0 +1,6 @@
+﻿  P_po_is.cpp
+C:\Users\Daniil\source\repos\P_po_is\P_po_is.cpp(41,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Daniil\source\repos\P_po_is\P_po_is.cpp(87,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Daniil\source\repos\P_po_is\P_po_is.cpp(92,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Daniil\source\repos\P_po_is\P_po_is.cpp(119,41): warning C4305: аргумент: усечение из "double" в "float"
+  P_po_is.vcxproj -> C:\Users\Daniil\source\repos\P_po_is\x64\Debug\P_po_is.exe
