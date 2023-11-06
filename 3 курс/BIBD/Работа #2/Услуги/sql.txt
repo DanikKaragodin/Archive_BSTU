@@ -1,0 +1,46 @@
+Конечно, вот 6 SQL-запросов для таблицы "Services":
+
+Добавление новой услуги:
+
+sql
+Copy code
+INSERT INTO Services (service_name, cost, duration)
+VALUES ('Новая Услуга', 80.00, '2 часа');
+
+Удаление услуги по идентификатору (например, идентификатор 3):
+
+sql
+Copy code
+DELETE FROM Services
+WHERE id = 3;
+
+Изменение информации о существующей услуге (например, изменение стоимости услуги с id 2):
+
+sql
+Copy code
+UPDATE Services
+SET cost = 90.00
+WHERE id = 2;
+
+Выборка всех услуг с продолжительностью более 1.5 часов:
+
+sql
+Copy code
+SELECT * FROM Services
+WHERE TIME_TO_SEC(duration) > 5400;
+
+Выборка всех услуг, стоимость которых менее 60.00:
+
+sql
+Copy code
+SELECT * FROM Services
+WHERE cost < 60.00;
+
+Выборка услуги с определенным названием (например, "Услуга 5"):
+
+sql
+Copy code
+SELECT * FROM Services
+WHERE service_name = 'Услуга 5';
+
+Эти SQL-запросы позволят вам выполнять различные операции с таблицей "Services", такие как добавление, удаление, изменение информации, а также выборку с условиями.

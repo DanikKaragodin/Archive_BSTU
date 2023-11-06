@@ -1,0 +1,1 @@
+SELECT [dbo].[GetFirmInfoByTel]("555-55-55");
